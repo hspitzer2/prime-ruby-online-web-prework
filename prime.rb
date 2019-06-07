@@ -6,4 +6,5 @@ end
 
 # if number is 3 or less than 1
 # if number is % 2
-# if number
+# if number == 0
+# needed help with this one!!!
